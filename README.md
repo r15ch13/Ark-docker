@@ -42,9 +42,8 @@ services:
       MAX_PLAYERS: 15
       RCON_ENABLE: "True"
       RCON_PORT: 32330
-      GAME_PORT: 7778
+      GAME_PORT: 7777
       QUERY_PORT: 27015
-      RAW_SOCKETS: "False"
       SERVER_PASSWORD: ""
       ADMIN_PASSWORD: "keepmesecret"
       SPECTATOR_PASSWORD: "keepmesecret"
@@ -81,9 +80,8 @@ services:
       MAX_PLAYERS: 15
       RCON_ENABLE: "False"
       RCON_PORT: 32331
-      GAME_PORT: 7780
+      GAME_PORT: 7779
       QUERY_PORT: 27016
-      RAW_SOCKETS: "False"
       SERVER_PASSWORD: ""
       ADMIN_PASSWORD: "keepmesecret"
       SPECTATOR_PASSWORD: "keepmesecret"
